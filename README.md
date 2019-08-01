@@ -1,2 +1,2 @@
-# DhruvKinger 
-My Portfolio for the websites.
+# Dhruv Kinger 
+Mine Portfolio.
